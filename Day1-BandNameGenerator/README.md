@@ -16,4 +16,4 @@ The program:
 
 ## 🧪 Example Output
 
-![Band Name Generator](band-name-generator)
+![Band Name Generator](band-name-generator.png)
