@@ -14,7 +14,7 @@ The program:
 
 ---
 
-## What I Learned
+## 📝 What I Learned
 
 1. How to display messages with print()
 
@@ -26,6 +26,6 @@ The program:
 
 ---
 
-## 🧪 Example Output
+## 📸 Screenshot
 
 ![Band Name Generator](band-name-generator.png)
