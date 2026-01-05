@@ -26,6 +26,15 @@ The program:
 
 ---
 
+## ▶️ How to Run
+
+Make sure Python 3 is installed. Then run:
+
+```bash
+python3 main.py
+
+---
+
 ## 📸 Screenshot
 
 ![Band Name Generator](band-name-generator.png)
