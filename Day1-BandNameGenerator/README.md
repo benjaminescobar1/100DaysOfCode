@@ -14,6 +14,18 @@ The program:
 
 ---
 
+## What I Learned
+
+1. How to display messages with print()
+
+2. How to get user input with input()
+
+3. How to combine strings to create dynamic output
+
+4. Understanding basic program flow (step-by-step execution)
+
+--
+
 ## 🧪 Example Output
 
 ![Band Name Generator](band-name-generator.png)
