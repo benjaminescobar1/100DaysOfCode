@@ -24,7 +24,7 @@ The program:
 
 4. Understanding basic program flow (step-by-step execution)
 
---
+---
 
 ## 🧪 Example Output
 
